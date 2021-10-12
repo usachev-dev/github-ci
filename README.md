@@ -1,4 +1,4 @@
-![run-tests](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![run-tests](https://github.com/usachev-dev/github-ci/actions/workflows/main.yml/badge.svg)
 
 # CI
 
