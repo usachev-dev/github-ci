@@ -1,5 +1,5 @@
 # BEGIN
-name: hello-world
+name: run-tests
 on: push
 jobs:
   run-tests:
