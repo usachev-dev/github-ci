@@ -1,5 +1,6 @@
 ![run-tests](https://github.com/usachev-dev/github-ci/actions/workflows/main.yml/badge.svg)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/9c255d1272e116766f51/maintainability)](https://codeclimate.com/github/usachev-dev/github-ci/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/9c255d1272e116766f51/test_coverage)](https://codeclimate.com/github/usachev-dev/github-ci/test_coverage)
 # CI
 
 В этом упражнении нужно будет протестировать функцию `slice()` и настроить Github Actions с подсчетом Test Coverage и загрузкой отчёта по покрытию тестами на [codeclimate.com](https://codeclimate.com/).

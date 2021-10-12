@@ -12,6 +12,5 @@ test("slice", () => {
    expect(slice([])).toEqual([]);
    expect(slice([], 1, 99)).toEqual([]);
    expect(slice([1], -99)).toEqual([1]);
-   expect(slice([1], -99)).toEqual([]);
 });
 // END
